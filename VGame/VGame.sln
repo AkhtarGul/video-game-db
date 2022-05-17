@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VGame", "VGame.csproj", "{70DF6B8C-E834-490A-AAC6-8BC0E7DBBC9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70DF6B8C-E834-490A-AAC6-8BC0E7DBBC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70DF6B8C-E834-490A-AAC6-8BC0E7DBBC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70DF6B8C-E834-490A-AAC6-8BC0E7DBBC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70DF6B8C-E834-490A-AAC6-8BC0E7DBBC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1365F438-74C5-4AA1-80CA-AD37EB72C4B6}
+	EndGlobalSection
+EndGlobal
